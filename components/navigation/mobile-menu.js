@@ -57,11 +57,7 @@ export default function MobileMenu () {
                         Blog
                     </Link>
                 </li>
-                <li>
-                    <a href="https://github.com/brandonbyr4/comicfun" target="_blank" rel="noopener noreferrer" className="block p-3 hover:bg-gray-100">
-                        Github
-                    </a>
-                </li>
+                
             </ul>
         </div>}
     </div>
